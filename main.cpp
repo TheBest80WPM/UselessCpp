@@ -1,5 +1,6 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
-int main() {
-  std::cout << "Hello World!\n";
+auto main() -> int
+{
+  std::cout << "Hello Github!\n";
 } 
